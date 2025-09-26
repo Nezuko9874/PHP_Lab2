@@ -123,9 +123,8 @@ $block_6_text = [
 </div>
 
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-    
     const pageStart = performance.now();
+    document.addEventListener("DOMContentLoaded", function() {
 
     // Початок роботи з localStorage
     const localStorageStart = performance.now();
@@ -259,6 +258,7 @@ $block_6_text = [
 
 </script>
 </body>
+
 
 
 </html>
